@@ -1,0 +1,6 @@
+idUsuario,nombre,correoElectronico,contraseña,dirección,métodoDePago
+1,Juan Perez,juan.perez@email.com,Qwerty123,Carrera 45 #10-20, Tarjeta de crédito
+2,Ana Gomez,ana.gomez@email.com,Pass456,Calle 21 #35-50, PayPal
+3,Carlos Ruiz,carlos.ruiz@email.com,Segura789,Avenida Principal #100, Transferencia bancaria
+4,Sofia Martinez,sofia.martinez@email.com,Clave987,Calle 8 #20-30, Efectivo
+5,Diego Fernández,diego.fernandez@email.com,Contra654,Carrera 77 #40-60, Tarjeta debito
